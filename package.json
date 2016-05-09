@@ -1,0 +1,23 @@
+{
+  "name": "node-rpm-api",
+  "version": "1.0.0",
+  "description": "Client for RPM's (http://rpmsoftware.com) API in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwindmuller/node-rpm-api.git"
+  },
+  "author": "Joaquín Windmüller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwindmuller/node-rpm-api/issues"
+  },
+  "homepage": "https://github.com/jwindmuller/node-rpm-api#readme",
+  "dependencies": {
+    "node-rest-client": "https://github.com/jwindmuller/node-rest-client.git",
+    "string": "^3.3.1"
+  }
+}
